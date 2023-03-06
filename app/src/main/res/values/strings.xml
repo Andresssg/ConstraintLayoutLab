@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConstraintLab</string>
+    <string name="sku">SKU:</string>
+    <string name="sku_hint">Enter product SKU</string>
+    <string name="product">Product name:</string>
+    <string name="product_hint">Enter product name</string>
+    <string name="price">Product price:</string>
+    <string name="price_hint">Enter product price</string>
+    <string name="description">Description</string>
+    <string name="add_button">Add product</string>
+</resources>
